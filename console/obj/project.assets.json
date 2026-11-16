@@ -87,11 +87,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\demoxunit\\console\\console.csproj",
+      "projectUniqueName": "C:\\WAP\\demoxunit\\console\\console.csproj",
       "projectName": "console",
-      "projectPath": "C:\\demoxunit\\console\\console.csproj",
+      "projectPath": "C:\\WAP\\demoxunit\\console\\console.csproj",
       "packagesPath": "C:\\Users\\ruso_\\.nuget\\packages\\",
-      "outputPath": "C:\\demoxunit\\console\\obj\\",
+      "outputPath": "C:\\WAP\\demoxunit\\console\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

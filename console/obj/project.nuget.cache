@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "SaxGvI+GRFs=",
+  "dgSpecHash": "Fx5IJxD7mBE=",
   "success": true,
-  "projectFilePath": "C:\\demoxunit\\console\\console.csproj",
+  "projectFilePath": "C:\\WAP\\demoxunit\\console\\console.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\ruso_\\.nuget\\packages\\microsoft.extensions.logging.abstractions\\6.0.1\\microsoft.extensions.logging.abstractions.6.0.1.nupkg.sha512"
   ],
