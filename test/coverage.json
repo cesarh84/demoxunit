@@ -1,0 +1,120 @@
+{
+  "console.dll": {
+    "C:\\demoxunit\\console\\Calculator.cs": {
+      "Calculator": {
+        "System.Int32 Calculator::Sum(System.Int32,System.Int32)": {
+          "Lines": {
+            "15": 1,
+            "16": 1,
+            "17": 1
+          },
+          "Branches": []
+        },
+        "System.Int32 Calculator::Resta(System.Int32,System.Int32)": {
+          "Lines": {
+            "20": 1,
+            "21": 1,
+            "22": 1
+          },
+          "Branches": []
+        },
+        "System.Int32 Calculator::BusquedaCadenaLetraA(System.String)": {
+          "Lines": {
+            "25": 0,
+            "27": 0,
+            "30": 0,
+            "32": 0,
+            "33": 0
+          },
+          "Branches": []
+        },
+        "System.Boolean Calculator::ValidaEstructuraEmail(System.String)": {
+          "Lines": {
+            "36": 1,
+            "38": 1,
+            "39": 1,
+            "40": 1,
+            "42": 0,
+            "43": 0,
+            "44": 0,
+            "46": 1
+          },
+          "Branches": []
+        },
+        "System.Int32 Calculator::NumeroAleatorio()": {
+          "Lines": {
+            "49": 1,
+            "50": 1,
+            "51": 1,
+            "53": 1,
+            "55": 1
+          },
+          "Branches": []
+        },
+        "System.Int32 Calculator::RandonNumeroEntero()": {
+          "Lines": {
+            "58": 1,
+            "59": 1,
+            "60": 1,
+            "62": 1,
+            "64": 1
+          },
+          "Branches": []
+        },
+        "System.Int32 Calculator::ContarPalabras(System.String)": {
+          "Lines": {
+            "67": 7,
+            "68": 7,
+            "69": 2,
+            "72": 5,
+            "74": 5,
+            "76": 5,
+            "77": 7
+          },
+          "Branches": [
+            {
+              "Line": 68,
+              "Offset": 9,
+              "EndOffset": 11,
+              "Path": 0,
+              "Ordinal": 0,
+              "Hits": 2,
+              "IsReachable": true
+            },
+            {
+              "Line": 68,
+              "Offset": 9,
+              "EndOffset": 15,
+              "Path": 1,
+              "Ordinal": 1,
+              "Hits": 5,
+              "IsReachable": true
+            }
+          ]
+        },
+        "System.Void Calculator::.ctor(Microsoft.Extensions.Logging.ILogger`1<Calculator>)": {
+          "Lines": {
+            "9": 13,
+            "10": 13,
+            "11": 13,
+            "12": 13
+          },
+          "Branches": []
+        }
+      }
+    },
+    "C:\\demoxunit\\console\\Program.cs": {
+      "Program": {
+        "System.Void Program::<Main>$(System.String[])": {
+          "Lines": {
+            "2": 0,
+            "3": 0,
+            "4": 0,
+            "5": 0
+          },
+          "Branches": []
+        }
+      }
+    }
+  }
+}
